@@ -1,0 +1,63 @@
+[
+  {
+    "id": "route-direct",
+    "name": "Fastest Route",
+    "originId": "main-quad",
+    "destinationId": "grainger",
+    "durationMinutes": 7,
+    "noiseCost": 45,
+    "crowdCost": 55,
+    "sunCost": 65,
+    "coordinates": [
+      [40.1072, -88.2272],
+      [40.1095, -88.2272],
+      [40.1125, -88.2268]
+    ],
+    "origin": { "lat": 40.1072, "lng": -88.2272 },
+    "destination": { "lat": 40.1125, "lng": -88.2268 },
+    "waypoints": [{ "lat": 40.1095, "lng": -88.2272 }],
+    "outdoorSegmentIds": ["segment-quad-walk", "segment-wright-st"],
+    "dataSource": "demo"
+  },
+  {
+    "id": "route-shaded",
+    "name": "Shaded & Quiet Route",
+    "originId": "main-quad",
+    "destinationId": "grainger",
+    "durationMinutes": 9,
+    "noiseCost": 25,
+    "crowdCost": 20,
+    "sunCost": 15,
+    "coordinates": [
+      [40.1072, -88.2272],
+      [40.1072, -88.2255],
+      [40.1125, -88.2262],
+      [40.1125, -88.2268]
+    ],
+    "origin": { "lat": 40.1072, "lng": -88.2272 },
+    "destination": { "lat": 40.1125, "lng": -88.2268 },
+    "waypoints": [{ "lat": 40.1072, "lng": -88.2255 }],
+    "outdoorSegmentIds": ["segment-shaded-path"],
+    "dataSource": "demo"
+  },
+  {
+    "id": "route-balanced",
+    "name": "Balanced Route",
+    "originId": "main-quad",
+    "destinationId": "grainger",
+    "durationMinutes": 8,
+    "noiseCost": 35,
+    "crowdCost": 35,
+    "sunCost": 40,
+    "coordinates": [
+      [40.1072, -88.2272],
+      [40.1095, -88.2265],
+      [40.1125, -88.2268]
+    ],
+    "origin": { "lat": 40.1072, "lng": -88.2272 },
+    "destination": { "lat": 40.1125, "lng": -88.2268 },
+    "waypoints": [{ "lat": 40.1095, "lng": -88.2265 }],
+    "outdoorSegmentIds": ["segment-quad-walk", "segment-shaded-path"],
+    "dataSource": "demo"
+  }
+]

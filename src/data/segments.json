@@ -1,0 +1,38 @@
+[
+  {
+    "id": "segment-quad-walk",
+    "name": "Main Quad central walkway",
+    "coordinates": [
+      [40.1072, -88.2272],
+      [40.1095, -88.2272]
+    ],
+    "baseNoiseCost": 20,
+    "baseCrowdCost": 45,
+    "baseSunCost": 70,
+    "dataSource": "demo"
+  },
+  {
+    "id": "segment-wright-st",
+    "name": "Wright St sidewalk",
+    "coordinates": [
+      [40.1095, -88.2272],
+      [40.1125, -88.2268]
+    ],
+    "baseNoiseCost": 55,
+    "baseCrowdCost": 40,
+    "baseSunCost": 30,
+    "dataSource": "demo"
+  },
+  {
+    "id": "segment-shaded-path",
+    "name": "Tree-lined east path",
+    "coordinates": [
+      [40.1072, -88.2255],
+      [40.1125, -88.2262]
+    ],
+    "baseNoiseCost": 25,
+    "baseCrowdCost": 20,
+    "baseSunCost": 15,
+    "dataSource": "demo"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "main-quad",
+    "name": "Main Quad",
+    "latitude": 40.1072,
+    "longitude": -88.2272,
+    "type": "outdoor",
+    "source_url": "https://www.google.com/maps/place/Main+Quad,+Urbana,+IL"
+  },
+  {
+    "id": "grainger",
+    "name": "Grainger Engineering Library",
+    "latitude": 40.1125,
+    "longitude": -88.2268,
+    "type": "indoor",
+    "source_url": "https://library.illinois.edu/enx/"
+  },
+  {
+    "id": "illini-union",
+    "name": "Illini Union",
+    "latitude": 40.1095,
+    "longitude": -88.2272,
+    "type": "indoor",
+    "source_url": "https://union.illinois.edu/"
+  },
+  {
+    "id": "ugl",
+    "name": "Undergraduate Library",
+    "latitude": 40.1047,
+    "longitude": -88.2286,
+    "type": "indoor",
+    "source_url": "https://www.library.illinois.edu/ugl/"
+  }
+]
