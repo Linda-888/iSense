@@ -1,0 +1,21 @@
+name: CI
+
+# Runs tests + build on every PR and on pushes to main, so a change that
+# breaks a shared interface gets caught before it reaches main.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
