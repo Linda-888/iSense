@@ -11,6 +11,45 @@ file in the same PR. If a field name here and in code disagree, the code is wron
 
 Owner of this file: **Person 4 (Integration & QA)**. Last updated: 2026-10-10.
 
+### Raw historical pedestrian pipeline data
+
+`data/crowd.json` stores reported monthly **pedestrian** counts from explicitly
+selected UIUC iCAP metrics. `reportedCount` is the original nonnegative integer;
+`sourceValueOriginal`, `sourceDateOriginal`, `applicableDate`, `periodMonth`,
+`sourceAnnotation`, metric/CSV/location URLs, CSV digest, row number and retrieval
+time retain provenance. Internal hash-based IDs are not official tracking IDs.
+`sourceMetricId` is the publisher's metric identifier.
+
+The source declares monthly granularity, but applicable dates can be mid-month.
+`observedAt`, `periodStart` and `periodEnd` therefore remain null: no measurement
+instant or exact collection interval is invented. `latitude`/`longitude` are
+published marker coordinates only for single-counter metrics. Combined
+multi-counter reports have null single-point coordinates. Source zeros, faults,
+partial coverage and multiple reports in one month are retained with quality
+flags, not interpreted as low crowd density.
+
+`usableForLiveCrowdScoring` is always false for these historical monthly reports.
+No `crowdCost` or `crowdScore` is derived. Existing route costs, frontend data and
+scoring remain unchanged. The retained privacy-minimized source snapshot supports
+exact offline replay/validation, but is not a publisher-signed attestation.
+
+### Raw NoiseCapture pipeline data
+
+`data/noise.json` is an array of acoustic observations, **not Route objects or
+0–100 environmental costs**. Each entry preserves `id` (stable string),
+`latitude`, `longitude`, `noiseDb` (original dB(A)), `noiseMetric` (`LAeq` or
+`LA50`), timezone-aware `observedAt` and `retrievedAt`, `sourceUrl`, and
+`sourceType: "NoiseCapture"`. Optional provenance fields are `sourceId`,
+`sourceTrackId` (original `pk_track`), `observedAtOriginal` (original local timestamp),
+`accuracyMeters`, `sourceArchive` and `sourceFile`; unavailable values may be null.
+These fields do not alter the route scoring contract. Source calibration is
+already reflected in the measurement; do not apply it twice.
+
+`data/noise-coverage.json` summarizes the observations, not inferred coverage.
+Proximity to endpoint pins and candidate waypoints is only a checkpoint check.
+`fullRouteCoverage: null` means unknown without verified route geometry;
+`sufficientForFullRouteScoring: false` must not be treated as verified route noise.
+
 ---
 
 ## 0. Conventions

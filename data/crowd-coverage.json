@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "recordCount": 142,
+  "sourceMetricCount": 4,
+  "locatedRecordCount": 66,
+  "unlocatedAggregateRecordCount": 76,
+  "singleCounterLocationCount": 3,
+  "periodMonthRange": {
+    "start": "2020-03",
+    "end": "2026-07"
+  },
+  "unit": "# of pedestrians",
+  "granularity": "month",
+  "reportedCountRange": {
+    "minimum": 0,
+    "maximum": 385284
+  },
+  "zeroCountRecords": 8,
+  "equipmentWarningRecords": 7,
+  "multipleReportsForMonthRecords": 2,
+  "sites": [
+    {
+      "sourceMetricId": "5612",
+      "name": "Illini Union (north and south counters combined)",
+      "recordCount": 76,
+      "locationScope": "multiple_counters",
+      "latitude": null,
+      "longitude": null,
+      "firstPeriodMonth": "2020-03",
+      "lastPeriodMonth": "2026-07",
+      "warningRecordCount": 76
+    },
+    {
+      "sourceMetricId": "9711",
+      "name": "Main Quad Bevier Hall",
+      "recordCount": 23,
+      "locationScope": "single_counter",
+      "latitude": 40.105365,
+      "longitude": -88.224351,
+      "firstPeriodMonth": "2024-10",
+      "lastPeriodMonth": "2026-07",
+      "warningRecordCount": 11
+    },
+    {
+      "sourceMetricId": "9712",
+      "name": "Main Quad Gregory Hall",
+      "recordCount": 22,
+      "locationScope": "single_counter",
+      "latitude": 40.10534,
+      "longitude": -88.2282,
+      "firstPeriodMonth": "2024-10",
+      "lastPeriodMonth": "2026-07",
+      "warningRecordCount": 1
+    },
+    {
+      "sourceMetricId": "9830",
+      "name": "Noyes Lab",
+      "recordCount": 21,
+      "locationScope": "single_counter",
+      "latitude": 40.108943,
+      "longitude": -88.225843,
+      "firstPeriodMonth": "2024-10",
+      "lastPeriodMonth": "2026-06",
+      "warningRecordCount": 2
+    }
+  ],
+  "targetRoute": {
+    "name": "UIUC Main Quad → Grainger Engineering Library",
+    "proximityThresholdMeters": 50,
+    "pointCountNearKnownCheckpoints": 0,
+    "minimumDistanceToKnownCheckpointsMeters": 79.17,
+    "proximityBasis": "Single-counter published markers vs existing endpoint pins and candidate waypoints only",
+    "verifiedRouteGeometryAvailable": false,
+    "fullRouteCoverage": null,
+    "sufficientForLiveRouteScoring": false
+  },
+  "limitations": [
+    "Historical monthly reported pedestrian counts, not current occupancy, crowd density, or hourly conditions.",
+    "Do not divide monthly totals into invented instantaneous observations or convert directly into 0–100 crowd scores.",
+    "Zero values may reflect counter failures; original values and source equipment annotations are retained.",
+    "A warning may affect later rows without repeated annotations; absence of a row annotation does not prove equipment was fixed.",
+    "Source applicable dates can fall inside a month; exact measurement start/end instants and complete-month coverage are unknown.",
+    "Multiple reports for one site/month are retained separately and must not be added together.",
+    "Combined north/south Illini Union counts have no invented single-point coordinate.",
+    "Published map markers are not surveyed coordinates; checkpoint proximity is not distance to the full route.",
+    "Only the four explicitly selected official pedestrian metrics are imported; no campus-wide extrapolation.",
+    "Affirming staff names are intentionally omitted; attribution is to the institution and source metric.",
+    "Public availability is not an explicit redistribution license; retain attribution and confirm terms before broader redistribution."
+  ]
+}
