@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "sync:trees": "node scripts/fetch-trees.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.4",
