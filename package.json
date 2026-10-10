@@ -10,7 +10,14 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "sync:trees": "node scripts/fetch-trees.mjs",
+    "import:noise": "node scripts/import-noise.mjs",
+    "validate:noise": "node scripts/validate-noise.mjs",
+    "test:noise": "node --test tests/noisePipeline.node.mjs",
+    "import:crowd": "node scripts/import-crowd.mjs",
+    "validate:crowd": "node scripts/validate-crowd.mjs",
+    "test:crowd": "node --test tests/crowdPipeline.node.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.4",

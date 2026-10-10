@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "sourceType": "NoiseCapture",
+  "recordCount": 97,
+  "uniqueCoordinateCount": 95,
+  "trackCount": 3,
+  "importBounds": {
+    "south": 40.115688874,
+    "west": -88.221318189,
+    "north": 40.115738467,
+    "east": -88.221248583
+  },
+  "geographicBounds": {
+    "south": 40.115688874,
+    "west": -88.221318189,
+    "north": 40.115738467,
+    "east": -88.221248583
+  },
+  "footprintMeters": {
+    "width": 5.92,
+    "height": 5.51
+  },
+  "timeRange": {
+    "start": "2026-03-14T03:48:09.000Z",
+    "end": "2026-03-14T04:05:31.000Z",
+    "localTimeZone": "America/Chicago",
+    "startLocal": "2026-03-13T22:48:09",
+    "endLocal": "2026-03-13T23:05:31"
+  },
+  "measurement": {
+    "unit": "dB(A)",
+    "metrics": [
+      "LAeq"
+    ],
+    "minimum": 33.49097,
+    "maximum": 71.38826
+  },
+  "targetRoute": {
+    "name": "UIUC Main Quad → Grainger Engineering Library",
+    "proximityThresholdMeters": 50,
+    "pointCountNearKnownCheckpoints": 0,
+    "anyPointsNearKnownCheckpoints": false,
+    "minimumDistanceToKnownCheckpointsMeters": 594.47,
+    "proximityBasis": "Known endpoint pins and team-researched candidate waypoints only",
+    "verifiedRouteGeometryAvailable": false,
+    "fullRouteCoverage": null,
+    "sufficientForFullRouteScoring": false
+  },
+  "limitations": [
+    "Historical phone measurements; not current conditions or campus-wide evidence.",
+    "One-second observations are not independent sampling sites; footprint is only the coordinate bounding box.",
+    "Nearby-checkpoint tests are not distance-to-path tests; full route coverage is unknown without verified geometry.",
+    "Do not extrapolate to unmeasured locations or convert dB(A) arbitrarily to a 0–100 route cost.",
+    "No calibration or GPS accuracy guarantee; the source calibration is already applied."
+  ]
+}

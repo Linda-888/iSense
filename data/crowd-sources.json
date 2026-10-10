@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "publisher": "University of Illinois Urbana-Champaign iCAP Portal",
+  "projectUrl": "https://icap.sustainability.illinois.edu/project/pedestrian-and-bicycle-counts",
+  "measurementType": "pedestrian_count",
+  "granularity": "month",
+  "sources": [
+    {
+      "metricId": "9712",
+      "name": "Main Quad Gregory Hall",
+      "metricUrl": "https://icap.sustainability.illinois.edu/metric/pedestrian-counts-main-quad-gregory-hall",
+      "csvUrl": "https://icap.sustainability.illinois.edu/metric-export/9712",
+      "locationUrl": "https://icap.sustainability.illinois.edu/place/eco-counter-main-quad-gregory-hall",
+      "locationScope": "single_counter"
+    },
+    {
+      "metricId": "9711",
+      "name": "Main Quad Bevier Hall",
+      "metricUrl": "https://icap.sustainability.illinois.edu/metric/pedestrian-counts-main-quad-bevier-hall",
+      "csvUrl": "https://icap.sustainability.illinois.edu/metric-export/9711",
+      "locationUrl": "https://icap.sustainability.illinois.edu/place/eco-counter-main-quad-bevier-hall",
+      "locationScope": "single_counter"
+    },
+    {
+      "metricId": "9830",
+      "name": "Noyes Lab",
+      "metricUrl": "https://icap.sustainability.illinois.edu/metric/pedestrian-counts-noyes-lab",
+      "csvUrl": "https://icap.sustainability.illinois.edu/metric-export/9830",
+      "locationUrl": "https://icap.sustainability.illinois.edu/place/eco-counter-noyes-lab",
+      "locationScope": "single_counter"
+    },
+    {
+      "metricId": "5612",
+      "name": "Illini Union (north and south counters combined)",
+      "metricUrl": "https://icap.sustainability.illinois.edu/metric/pedestrian-count-illini-union",
+      "csvUrl": "https://icap.sustainability.illinois.edu/metric-export/5612",
+      "locationUrl": null,
+      "locationScope": "multiple_counters"
+    }
+  ]
+}

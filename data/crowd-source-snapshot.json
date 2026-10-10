@@ -1,0 +1,922 @@
+{
+  "version": 1,
+  "retrievedAt": "2026-10-10T21:52:32.420Z",
+  "sources": [
+    {
+      "metricId": "9712",
+      "name": "Main Quad Gregory Hall",
+      "metricUrl": "https://icap.sustainability.illinois.edu/metric/pedestrian-counts-main-quad-gregory-hall",
+      "csvUrl": "https://icap.sustainability.illinois.edu/metric-export/9712",
+      "locationUrl": "https://icap.sustainability.illinois.edu/place/eco-counter-main-quad-gregory-hall",
+      "locationScope": "single_counter",
+      "latitude": 40.10534,
+      "longitude": -88.2282,
+      "metricTitle": "Metric: Pedestrian Counts at Main Quad Gregory Hall",
+      "measurementType": "pedestrian_count",
+      "granularity": "month",
+      "csvSha256": "8202549bbb98778e0c7bf25a105d45f02bd49f9ec481dbf864b3bc17b05281e0",
+      "rows": [
+        {
+          "sourceRowNumber": 2,
+          "originalValue": "759.00",
+          "originalDate": "7/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 3,
+          "originalValue": "11684.00",
+          "originalDate": "6/30/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 4,
+          "originalValue": "29064.00",
+          "originalDate": "5/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 5,
+          "originalValue": "67429.00",
+          "originalDate": "4/30/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 6,
+          "originalValue": "49307.00",
+          "originalDate": "3/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 7,
+          "originalValue": "55925.00",
+          "originalDate": "2/28/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 8,
+          "originalValue": "22580.00",
+          "originalDate": "1/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 9,
+          "originalValue": "28982.00",
+          "originalDate": "12/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 10,
+          "originalValue": "50715.00",
+          "originalDate": "11/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 11,
+          "originalValue": "86202.00",
+          "originalDate": "10/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 12,
+          "originalValue": "87843.00",
+          "originalDate": "9/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 13,
+          "originalValue": "42396.00",
+          "originalDate": "8/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 14,
+          "originalValue": "10455.00",
+          "originalDate": "7/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 15,
+          "originalValue": "10662.00",
+          "originalDate": "6/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 16,
+          "originalValue": "33366.00",
+          "originalDate": "5/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 17,
+          "originalValue": "63580.00",
+          "originalDate": "4/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 18,
+          "originalValue": "46850.00",
+          "originalDate": "3/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 19,
+          "originalValue": "50552.00",
+          "originalDate": "2/28/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 20,
+          "originalValue": "24556.00",
+          "originalDate": "1/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 21,
+          "originalValue": "28396.00",
+          "originalDate": "12/31/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 22,
+          "originalValue": "49342.00",
+          "originalDate": "11/30/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 23,
+          "originalValue": "87900.00",
+          "originalDate": "10/31/2024",
+          "annotation": "The Eco-Counter was installed and activated on October 1, 2024.\n"
+        }
+      ]
+    },
+    {
+      "metricId": "9711",
+      "name": "Main Quad Bevier Hall",
+      "metricUrl": "https://icap.sustainability.illinois.edu/metric/pedestrian-counts-main-quad-bevier-hall",
+      "csvUrl": "https://icap.sustainability.illinois.edu/metric-export/9711",
+      "locationUrl": "https://icap.sustainability.illinois.edu/place/eco-counter-main-quad-bevier-hall",
+      "locationScope": "single_counter",
+      "latitude": 40.105365,
+      "longitude": -88.224351,
+      "metricTitle": "Metric: Pedestrian Counts at Main Quad Bevier Hall",
+      "measurementType": "pedestrian_count",
+      "granularity": "month",
+      "csvSha256": "e2825ca514f5c830360b82ef604db0f54ff853b21ee84063e1f6fbdb17630522",
+      "rows": [
+        {
+          "sourceRowNumber": 2,
+          "originalValue": "0.00",
+          "originalDate": "7/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 3,
+          "originalValue": "0.00",
+          "originalDate": "6/30/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 4,
+          "originalValue": "0.00",
+          "originalDate": "5/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 5,
+          "originalValue": "0.00",
+          "originalDate": "4/30/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 6,
+          "originalValue": "0.00",
+          "originalDate": "3/31/2026",
+          "annotation": "Error - counter not reporting counts since March 2026\n"
+        },
+        {
+          "sourceRowNumber": 7,
+          "originalValue": "45606.00",
+          "originalDate": "2/28/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 8,
+          "originalValue": "45105.00",
+          "originalDate": "1/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 9,
+          "originalValue": "42404.00",
+          "originalDate": "12/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 10,
+          "originalValue": "52777.00",
+          "originalDate": "11/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 11,
+          "originalValue": "78206.00",
+          "originalDate": "10/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 12,
+          "originalValue": "84437.00",
+          "originalDate": "9/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 13,
+          "originalValue": "77277.00",
+          "originalDate": "8/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 14,
+          "originalValue": "0.00",
+          "originalDate": "7/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 15,
+          "originalValue": "0.00",
+          "originalDate": "6/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 16,
+          "originalValue": "26562.00",
+          "originalDate": "5/31/2025",
+          "annotation": "Counter malfunctioned on May 24. No reliable data from this date on\n"
+        },
+        {
+          "sourceRowNumber": 17,
+          "originalValue": "60623.00",
+          "originalDate": "4/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 18,
+          "originalValue": "46777.00",
+          "originalDate": "3/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 19,
+          "originalValue": "51306.00",
+          "originalDate": "2/28/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 20,
+          "originalValue": "44018.00",
+          "originalDate": "2/26/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 21,
+          "originalValue": "94303.00",
+          "originalDate": "1/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 22,
+          "originalValue": "28558.00",
+          "originalDate": "12/31/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 23,
+          "originalValue": "48034.00",
+          "originalDate": "11/30/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 24,
+          "originalValue": "74757.00",
+          "originalDate": "10/15/2024",
+          "annotation": "The Eco-Counter was installed and activated on October 1, 2024.\n"
+        }
+      ]
+    },
+    {
+      "metricId": "9830",
+      "name": "Noyes Lab",
+      "metricUrl": "https://icap.sustainability.illinois.edu/metric/pedestrian-counts-noyes-lab",
+      "csvUrl": "https://icap.sustainability.illinois.edu/metric-export/9830",
+      "locationUrl": "https://icap.sustainability.illinois.edu/place/eco-counter-noyes-lab",
+      "locationScope": "single_counter",
+      "latitude": 40.108943,
+      "longitude": -88.225843,
+      "metricTitle": "Metric: Pedestrian Counts at Noyes Lab",
+      "measurementType": "pedestrian_count",
+      "granularity": "month",
+      "csvSha256": "3729040d53a814d3ec7b826e6d64ed971de3bfba905c5443eadf9261fa347a84",
+      "rows": [
+        {
+          "sourceRowNumber": 2,
+          "originalValue": "22370.00",
+          "originalDate": "6/30/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 3,
+          "originalValue": "49204.00",
+          "originalDate": "5/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 4,
+          "originalValue": "122590.00",
+          "originalDate": "4/30/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 5,
+          "originalValue": "91238.00",
+          "originalDate": "3/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 6,
+          "originalValue": "107811.00",
+          "originalDate": "2/28/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 7,
+          "originalValue": "44827.00",
+          "originalDate": "1/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 8,
+          "originalValue": "52255.00",
+          "originalDate": "12/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 9,
+          "originalValue": "91255.00",
+          "originalDate": "11/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 10,
+          "originalValue": "144991.00",
+          "originalDate": "10/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 11,
+          "originalValue": "144223.00",
+          "originalDate": "9/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 12,
+          "originalValue": "70904.00",
+          "originalDate": "8/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 13,
+          "originalValue": "26669.00",
+          "originalDate": "7/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 14,
+          "originalValue": "29025.00",
+          "originalDate": "6/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 15,
+          "originalValue": "59385.00",
+          "originalDate": "5/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 16,
+          "originalValue": "125718.00",
+          "originalDate": "4/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 17,
+          "originalValue": "92554.00",
+          "originalDate": "3/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 18,
+          "originalValue": "104507.00",
+          "originalDate": "2/28/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 19,
+          "originalValue": "57377.00",
+          "originalDate": "1/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 20,
+          "originalValue": "58827.00",
+          "originalDate": "12/31/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 21,
+          "originalValue": "98690.00",
+          "originalDate": "11/19/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 22,
+          "originalValue": "143584.00",
+          "originalDate": "10/31/2024",
+          "annotation": "The Eco-Counter was installed and activated on October 4, 2024.\n"
+        }
+      ]
+    },
+    {
+      "metricId": "5612",
+      "name": "Illini Union (north and south counters combined)",
+      "metricUrl": "https://icap.sustainability.illinois.edu/metric/pedestrian-count-illini-union",
+      "csvUrl": "https://icap.sustainability.illinois.edu/metric-export/5612",
+      "locationUrl": null,
+      "locationScope": "multiple_counters",
+      "latitude": null,
+      "longitude": null,
+      "metricTitle": "Metric: Pedestrian Count at Illini Union",
+      "measurementType": "pedestrian_count",
+      "granularity": "month",
+      "csvSha256": "13b3d95b381f67ae7c20169ab9b01659951eac6f118aa9d3dea15c3a793150f3",
+      "rows": [
+        {
+          "sourceRowNumber": 2,
+          "originalValue": "78905.00",
+          "originalDate": "7/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 3,
+          "originalValue": "88223.00",
+          "originalDate": "6/30/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 4,
+          "originalValue": "207476.00",
+          "originalDate": "5/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 5,
+          "originalValue": "342956.00",
+          "originalDate": "4/30/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 6,
+          "originalValue": "281500.00",
+          "originalDate": "3/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 7,
+          "originalValue": "285998.00",
+          "originalDate": "2/28/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 8,
+          "originalValue": "128757.00",
+          "originalDate": "1/31/2026",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 9,
+          "originalValue": "180089.00",
+          "originalDate": "12/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 10,
+          "originalValue": "385284.00",
+          "originalDate": "10/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 11,
+          "originalValue": "358417.00",
+          "originalDate": "9/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 12,
+          "originalValue": "195203.00",
+          "originalDate": "8/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 13,
+          "originalValue": "71916.00",
+          "originalDate": "7/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 14,
+          "originalValue": "78960.00",
+          "originalDate": "6/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 15,
+          "originalValue": "210165.00",
+          "originalDate": "5/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 16,
+          "originalValue": "323058.00",
+          "originalDate": "4/30/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 17,
+          "originalValue": "250652.00",
+          "originalDate": "3/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 18,
+          "originalValue": "263232.00",
+          "originalDate": "2/28/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 19,
+          "originalValue": "134101.00",
+          "originalDate": "1/31/2025",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 20,
+          "originalValue": "176538.00",
+          "originalDate": "12/31/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 21,
+          "originalValue": "218119.00",
+          "originalDate": "11/19/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 22,
+          "originalValue": "183777.00",
+          "originalDate": "10/31/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 23,
+          "originalValue": "175872.00",
+          "originalDate": "9/30/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 24,
+          "originalValue": "106725.00",
+          "originalDate": "8/31/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 25,
+          "originalValue": "45652.00",
+          "originalDate": "7/31/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 26,
+          "originalValue": "72259.00",
+          "originalDate": "6/26/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 27,
+          "originalValue": "156405.00",
+          "originalDate": "5/30/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 28,
+          "originalValue": "314455.00",
+          "originalDate": "4/30/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 29,
+          "originalValue": "233066.00",
+          "originalDate": "3/31/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 30,
+          "originalValue": "287639.00",
+          "originalDate": "2/29/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 31,
+          "originalValue": "155730.00",
+          "originalDate": "1/31/2024",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 32,
+          "originalValue": "138259.00",
+          "originalDate": "12/31/2023",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 33,
+          "originalValue": "239601.00",
+          "originalDate": "11/30/2023",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 34,
+          "originalValue": "337246.00",
+          "originalDate": "10/31/2023",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 35,
+          "originalValue": "267197.00",
+          "originalDate": "9/30/2023",
+          "annotation": "North side counter repaired and reinstalled.\n"
+        },
+        {
+          "sourceRowNumber": 36,
+          "originalValue": "118051.00",
+          "originalDate": "8/31/2023",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 37,
+          "originalValue": "38878.00",
+          "originalDate": "7/31/2023",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 38,
+          "originalValue": "44761.00",
+          "originalDate": "6/30/2023",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 39,
+          "originalValue": "92152.00",
+          "originalDate": "5/31/2023",
+          "annotation": "North Counter non operational. Sent for repair. Data from South side only\n"
+        },
+        {
+          "sourceRowNumber": 40,
+          "originalValue": "0.00",
+          "originalDate": "4/30/2023",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 41,
+          "originalValue": "50707.00",
+          "originalDate": "3/31/2023",
+          "annotation": "South side counter - Battery died March 8. North Counter - Malfunctioning in March.\n"
+        },
+        {
+          "sourceRowNumber": 42,
+          "originalValue": "356002.00",
+          "originalDate": "2/28/2023",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 43,
+          "originalValue": "168566.00",
+          "originalDate": "1/31/2023",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 44,
+          "originalValue": "140891.00",
+          "originalDate": "12/31/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 45,
+          "originalValue": "228948.00",
+          "originalDate": "11/30/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 46,
+          "originalValue": "337958.00",
+          "originalDate": "10/31/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 47,
+          "originalValue": "353484.00",
+          "originalDate": "9/30/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 48,
+          "originalValue": "214131.00",
+          "originalDate": "8/31/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 49,
+          "originalValue": "71322.00",
+          "originalDate": "7/31/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 50,
+          "originalValue": "75422.00",
+          "originalDate": "6/30/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 51,
+          "originalValue": "152187.00",
+          "originalDate": "5/31/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 52,
+          "originalValue": "267871.00",
+          "originalDate": "4/30/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 53,
+          "originalValue": "153464.00",
+          "originalDate": "3/31/2022",
+          "annotation": "Counter was fixed and reinstalled during Spring Break\n"
+        },
+        {
+          "sourceRowNumber": 54,
+          "originalValue": "79825.00",
+          "originalDate": "2/28/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 55,
+          "originalValue": "33363.00",
+          "originalDate": "1/31/2022",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 56,
+          "originalValue": "130905.00",
+          "originalDate": "12/31/2021",
+          "annotation": "Sensor battery issues. Illini Union South side counter out of order since Dec 27, 2021. Counter sent for repair\n"
+        },
+        {
+          "sourceRowNumber": 57,
+          "originalValue": "220415.00",
+          "originalDate": "11/30/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 58,
+          "originalValue": "286467.00",
+          "originalDate": "10/31/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 59,
+          "originalValue": "288904.00",
+          "originalDate": "9/30/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 60,
+          "originalValue": "167132.00",
+          "originalDate": "8/31/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 61,
+          "originalValue": "51203.00",
+          "originalDate": "7/31/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 62,
+          "originalValue": "52097.00",
+          "originalDate": "6/30/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 63,
+          "originalValue": "75149.00",
+          "originalDate": "5/31/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 64,
+          "originalValue": "89178.00",
+          "originalDate": "4/30/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 65,
+          "originalValue": "86298.00",
+          "originalDate": "3/31/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 66,
+          "originalValue": "56244.00",
+          "originalDate": "2/28/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 67,
+          "originalValue": "46367.00",
+          "originalDate": "1/31/2021",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 68,
+          "originalValue": "31525.00",
+          "originalDate": "12/31/2020",
+          "annotation": "Eco-Counter North of Green Street back online since 12/18/2020.\n"
+        },
+        {
+          "sourceRowNumber": 69,
+          "originalValue": "39468.00",
+          "originalDate": "11/30/2020",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 70,
+          "originalValue": "53810.00",
+          "originalDate": "10/31/2020",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 71,
+          "originalValue": "57543.00",
+          "originalDate": "9/30/2020",
+          "annotation": "Counter north of Green St out of order since 9/12/20\n"
+        },
+        {
+          "sourceRowNumber": 72,
+          "originalValue": "63084.00",
+          "originalDate": "8/31/2020",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 73,
+          "originalValue": "31987.00",
+          "originalDate": "7/31/2020",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 74,
+          "originalValue": "31136.00",
+          "originalDate": "6/30/2020",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 75,
+          "originalValue": "29924.00",
+          "originalDate": "5/31/2020",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 76,
+          "originalValue": "23762.00",
+          "originalDate": "4/30/2020",
+          "annotation": ""
+        },
+        {
+          "sourceRowNumber": 77,
+          "originalValue": "10019.00",
+          "originalDate": "3/31/2020",
+          "annotation": ""
+        }
+      ]
+    }
+  ]
+}
